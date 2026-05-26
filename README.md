@@ -27,14 +27,15 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-{
-  username: "DarisFadlli33",
-  role: "Back-End Developer",
-  passion: ["Building cool stuff", "Clean code", "Problem solving"],
-  currentlyLearning: "Always something new! 🚀",
-  funFact: "I debug with console.log and I'm proud of it 😄"
-}
+```yaml
+username: DarisFadlli33
+role: Back-End Developer
+passion:
+ - Building cool stuff
+ - Clean code
+ - Problem solving
+currentlyLearning: Always something new 🚀
+funFact: I debug with console.log and I'm proud of it 😄
 ```
 
 ---
