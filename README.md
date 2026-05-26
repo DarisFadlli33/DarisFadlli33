@@ -103,7 +103,7 @@ const DarisFadlli = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarisFadlli33&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="[https://github-profile-trophy.vercel.app/?username=DarisFadlli33&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=DarisFadlli33&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)" alt="Trophies"/>
 </div>
 
 ---
